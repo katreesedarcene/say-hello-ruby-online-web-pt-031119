@@ -1,3 +1,3 @@
-say_hello(name)
+say_hello(name = "Ruby Progammer")
    puts "Hello #{name}!"
 end
