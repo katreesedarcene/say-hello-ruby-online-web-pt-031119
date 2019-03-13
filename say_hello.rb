@@ -1,5 +1,5 @@
 
-say_hello(name = "Ruby Progammer")
+say_hello(name)
    puts "Hello #{name}!"
    
 end
